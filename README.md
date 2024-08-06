@@ -10,16 +10,10 @@
 </div>
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
-</a>
-</p>
-
 </td>
 
 </tr>
 </table>
-
-<!-- Footer -->
 
 <div align="center">
 
