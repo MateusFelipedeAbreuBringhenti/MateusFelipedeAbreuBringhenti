@@ -2,10 +2,10 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Mateus and I like Sleep" />
   <br />
   <p>Olá, meu nome é Mateus e eu gosto de dormir.</p>
   <br />
+  <p> I am a student at UNIMATER college, currently studying a bachelor's degree in Information Systems, 4/8 </p>
 
 </div>
 <p>
