@@ -3,9 +3,12 @@
   <br />
   <br />
   <br />
-  <p>Olá, meu nome é Mateus e eu gosto de dormir.</p>
+  <p> Hello, my name is Mateus and I like to sleep. </p>
   <br />
-  <p> I am a student at UNIMATER college, currently studying a bachelor's degree in Information Systems, 4/8 </p>
+  <p> I am a student at UNIMATER college, currently studying a bachelor's degree in Information Systems, 4/8.</p>
+  <br />
+  <p> I like the UI/UX area <p>
+  <br />
 
 </div>
 <p>
