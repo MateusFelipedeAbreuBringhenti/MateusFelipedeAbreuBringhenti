@@ -3,20 +3,14 @@
   <br />
   <br />
   <br />
-  <p> Hello, my name is Mateus and I like to sleep. </p>
-  <br />
-  <p> I am a student at UNIMATER college, currently studying a bachelor's degree in Information Systems, 4/8.</p>
-  <br />
-  <p> I like the UI/UX area <p>
-  <br />
-
 </div>
-<p>
 
-</td>
-
-</tr>
-</table>
+  <p> Hello there 😉 </p>
+  <br />
+  <p> My name is Mateus and I am currently studying at UNIMATER college, bachelor's degree in Information Systems. </p>
+  <br />
+  <p> I am currently looking for training in the areas of development (front-end, back-end) and knowledge about AI. <p>
+  <br />
 
 <div align="center">
 
