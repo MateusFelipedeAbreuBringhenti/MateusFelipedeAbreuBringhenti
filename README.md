@@ -14,8 +14,6 @@
   <p> I am currently looking for training in the areas of development (front-end, back-end) and knowledge about AI. <p>
   <br />
 
-<div align="center">
-
 <br>
 
 ## 📌 Pinned Repositories
