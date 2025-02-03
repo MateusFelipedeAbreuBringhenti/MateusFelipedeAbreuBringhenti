@@ -18,6 +18,8 @@
 
 ## 📌 Pinned Repositories
 
+[![](https://img.shields.io/badge/REACT%20JS-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)](https://github.com/MateusFelipedeAbreuBringhenti/React_JS)
+
 
 <br>
 
