@@ -1,4 +1,4 @@
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mateus-felipe-de-abreu-bringhenti-1a9025288/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mateus-felipe-de-abreu-bringhenti-1a9025288/) 👀
 
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
@@ -7,13 +7,13 @@
   <br />
 </div>
 
-  <p> Hello there 😉 </p>
+  <p> 👋 Hello there 😉 </p>
   <br />
-  <p> My name is Mateus Bringhenti </p>
+  <p> 😃 My name is Mateus Bringhenti </p>
   <br />
-  <p> I am currently studying at UNIMATER college, bachelor's degree in Information Systems <p>
+  <p> 📚 I am currently studying at UNIMATER college, bachelor's degree in Information Systems <p>
   <br />
-  <p> I am currently looking for training in the areas of development (front-end, back-end) and support. <p>
+  <p> 🧐 I am currently looking for training in the areas of development (front-end, back-end) and support. <p>
   <br />
 
 <br>
