@@ -11,9 +11,7 @@
   <br />
   <p> 😃 My name is Mateus Bringhenti </p>
   <br />
-  <p> 📚 I am currently studying at UNIMATER college, bachelor's degree in Information Systems <p>
-  <br />
-  <p> 🧐👀 I am currently looking for training in the areas of development (front-end, back-end) and support <p>
+  <p> 📚 I am currently studying at UNIMATER college, bachelor's degree in Information Systems 6/8<p>
   <br />
 
 <br>
